@@ -1,2 +1,2 @@
-#Animated Template
+# Animated Template
 animated page.
